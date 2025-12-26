@@ -8,5 +8,11 @@
       "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
     }
   ],
-  "users": []
+  "users": [
+    {
+      "email": "hibabanat.95@gmail.com",
+      "password": "$2a$12$iGBmjeo4jVnnmNluuFYGe.U5VD8yQg9atVLT8/tylNvaGPqE9hHru",
+      "id": "7f5d3e42-f28f-4b74-9764-89bbd817dfda"
+    }
+  ]
 }
